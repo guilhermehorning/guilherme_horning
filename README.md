@@ -9,6 +9,11 @@ Sistema Python para importação e leitura de arquivos TXT de Estorno de Débito
 
 **Tecnologias:** Python, Tkinter, Pandas, Excel
 
+### 🔹 [CSV Comparator](./csv-comparator/)
+Ferramenta com interface gráfica para comparar arquivos CSV, identificando diferenças e gerando relatórios detalhados.
+
+**Tecnologias:** Python, Tkinter, Pandas
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
