@@ -19,6 +19,11 @@ Sistema de automação para execução de suites de testes AC (Apuração e Cál
 
 **Tecnologias:** Python, Tkinter, Java, XML
 
+### 🔹 [Comparador SPED](./comparador-sped/)
+Ferramenta completa para comparação de arquivos SPED Fiscal (EFD-ICMS/IPI) com geração de relatórios detalhados em HTML.
+
+**Tecnologias:** Python, Tkinter, HTML/CSS
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
