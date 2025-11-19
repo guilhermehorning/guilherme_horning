@@ -14,6 +14,11 @@ Ferramenta com interface gráfica para comparar arquivos CSV, identificando dife
 
 **Tecnologias:** Python, Tkinter, Pandas
 
+### 🔹 [Suite de Testes AC](./suite-testes-ac/)
+Sistema de automação para execução de suites de testes AC (Apuração e Cálculo) com interface gráfica, geração de relatórios e launcher.
+
+**Tecnologias:** Python, Tkinter, Java, XML
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
